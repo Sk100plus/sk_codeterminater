@@ -1,0 +1,6 @@
+priority_queue<int, vector<int>, greater<int>> st; 
+is suitable when you want to maintain elements in descending order and use a vector for storage.
+
+
+priority_queue<int> st; 
+is suitable when you want to maintain elements in ascending order (default behavior) and use a deque for storage

@@ -1,0 +1,2 @@
+ char charValue = static_cast<char>(p + 48);
+ if(p==5 then charValue ==5)
